@@ -1,1 +1,1 @@
-Created another file and named it as file2.
+Created another file and named it as file2.txt
